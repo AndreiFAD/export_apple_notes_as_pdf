@@ -10,7 +10,7 @@ source: <a href="https://macscripter.net/viewtopic.php?pid=209959">https://macsc
 
 
 
-run terminal:
+run in terminal:
 
 <code>$ osascript /Users/{user}/Downloads/export_apple_notes_as_pdf.scpt</code>
 
