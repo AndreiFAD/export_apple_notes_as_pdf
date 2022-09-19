@@ -43,7 +43,7 @@ tell application "Notes"
 			set h to (h - 12)
 			set pre to "PM"
 		end if
-		set time_format to ((h & "" & m & "" & s & "" & pre) as string) & "_" & (random number from 100 to 999) as text
+		set time_format to ((h & "" & m & "" & s) as string) & "_" & (random number from 100 to 999) as text
 
 		set thePath to POSIX path of alias (noteNameToFilePath((name of theNote as string) & "_" & date_format & "_" & time_format ) of me)
 		set thePath to (NSString's stringWithString:thePath) 
