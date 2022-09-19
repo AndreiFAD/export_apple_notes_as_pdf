@@ -13,3 +13,4 @@ Orginal script was made by :
 run terminal:
 
 <code>$ osascript /Users/{user}/Downloads/export_apple_notes_as_pdf.scpt</code>
+
