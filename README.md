@@ -1,4 +1,4 @@
-## script: Export Apple Notes as PDF
+## script: Export Apple Notes as PDF (one-by-one)
 
 Orginal script was made by : 
 
