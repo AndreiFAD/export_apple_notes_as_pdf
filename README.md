@@ -1,2 +1,7 @@
-# export_apple_notes_as_pdf
-Export Apple Notes as PDF
+## script: Export Apple Notes as PDF
+
+Orginal scrip was made by : (source: https://macscripter.net/viewtopic.php?pid=209959)
+
+-- written by: user @KniazidisR (today)
+
+-- saveStyledText:asPDFToFile handler written by: user @Shane Stanley (thanks)
