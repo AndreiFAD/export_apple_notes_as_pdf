@@ -4,4 +4,4 @@ Orginal scrip was made by : (source: https://macscripter.net/viewtopic.php?pid=2
 
 -- written by: user @KniazidisR
 
--- saveStyledText:asPDFToFile handler written by: user @Shane Stanley (thanks)
+-- saveStyledText:asPDFToFile handler written by: user @Shane Stanley
