@@ -1,6 +1,8 @@
 ## script: Export Apple Notes as PDF
 
-Orginal script was made by : source: <a href="https://macscripter.net/viewtopic.php?pid=209959">https://macscripter.net/viewtopic.php?pid=209959</a>
+Orginal script was made by : 
+
+-- source: <a href="https://macscripter.net/viewtopic.php?pid=209959">https://macscripter.net/viewtopic.php?pid=209959</a>
 
 -- written by: user @KniazidisR
 
