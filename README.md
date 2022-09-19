@@ -1,6 +1,6 @@
 ## script: Export Apple Notes as PDF (one-by-one)
 
-Orginal script was made by : 
+Original script was made by: 
 
 -- written by: user @KniazidisR
 
