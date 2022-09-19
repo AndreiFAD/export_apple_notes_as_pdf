@@ -32,7 +32,7 @@ tell application "Notes"
 	repeat with theNote in notes
 		-- Write the body of the note out to file as PDF
     
-    -- Create a timestamp string with an extra random number to ensure files are unique!
+                -- Create a timestamp string with an extra random number to ensure files are unique!
 		set theDate to (current date)
 		set {year:y, month:m, day:d} to theDate
 		set date_format to (y * 10000 + m * 100 + d) as string 
