@@ -5,3 +5,9 @@ Orginal scrip was made by : source: <a href="https://macscripter.net/viewtopic.p
 -- written by: user @KniazidisR
 
 -- saveStyledText:asPDFToFile handler written by: user @Shane Stanley
+
+
+
+run terminal:
+
+ osascript /Users/{user}/Downloads/export_apple_notes_as_pdf.scpt
