@@ -10,4 +10,4 @@ Orginal scrip was made by : source: <a href="https://macscripter.net/viewtopic.p
 
 run terminal:
 
- osascript /Users/{user}/Downloads/export_apple_notes_as_pdf.scpt
+<code>$ osascript /Users/{user}/Downloads/export_apple_notes_as_pdf.scpt</code>
